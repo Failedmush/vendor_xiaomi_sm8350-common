@@ -238,6 +238,7 @@ PRODUCT_PACKAGES += \
     libvpplibrary \
     libxml \
     libhwdap \
+    libspatialaudio \
     libswgamedap \
     libswvqe \
     vendor.dolby.hardware.dms@2.0 \
