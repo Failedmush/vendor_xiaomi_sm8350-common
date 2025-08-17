@@ -12470,6 +12470,7 @@ cc_prebuilt_library_shared {
                 "libhidlbase",
                 "libgralloctypes",
                 "android.hardware.graphics.mapper@4.0",
+                "libvndksupport",
                 "libc++",
                 "libc",
                 "libm",
