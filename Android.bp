@@ -12474,7 +12474,7 @@ cc_prebuilt_library_shared {
                 "android.hardware.graphics.allocator@4.0",
                 "android.hardware.graphics.allocator-V2-ndk",
                 "libc++",
-                "libbinder_ndk.so",
+                "libbinder_ndk",
                 "libc",
                 "libm",
                 "libdl",
